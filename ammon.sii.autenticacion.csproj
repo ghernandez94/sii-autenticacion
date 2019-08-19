@@ -7,7 +7,7 @@
     <DotNetCliToolReference Include="dotnet-svcutil" Version="1.0.*" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="dotnet-svcutil.xmlserializer" Version="1.0.0-preview1" />
+    <PackageReference Include="dotnet-svcutil.xmlserializer" Version="1.1.0" />
     <PackageReference Include="System.Security.Cryptography.Xml" Version="4.5.0" />
     <PackageReference Include="System.ServiceModel.Http" Version="4.5.0" />
     <PackageReference Include="System.ServiceModel.Security" Version="4.5.0" />
